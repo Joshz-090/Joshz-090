@@ -33,4 +33,6 @@ I'm Eyasu Zerihun (Josh-z), a passionate web developer who's always building coo
 
 ---
 
-Thanks for checking out my profile! 😊
+Thanks💕 for checking out my profile! 😊  
+
+If you like my work, please🙏 consider giving it a ⭐ — your support means a lot and motivates me to do even better!  
