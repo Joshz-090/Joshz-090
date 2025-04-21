@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Josh, a passionate web developer who's always learning and building cool things on the web.
+I'm Eyasu Zerihun (Josh-z), a passionate web developer who's always building cool things on the web.
 
 ### 💼 What I Do
 - 🌐 I build responsive websites with HTML, CSS, and JavaScript.
