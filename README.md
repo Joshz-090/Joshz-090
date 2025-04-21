@@ -9,9 +9,9 @@ I'm Josh, a passionate web developer who's always learning and building cool thi
 
 ### 🧠 Skills
 - HTML5
-- CSS3 (with animations!)
+- CSS3 
 - Git & GitHub
-- JavaScript (still learning)
+- JavaScript 
 - C++
 - Java
 - Python
