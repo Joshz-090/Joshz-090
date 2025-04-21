@@ -17,8 +17,15 @@ I'm Eyasu Zerihun (Josh-z), a passionate web developer who's always building coo
 - Python
 
 ### 🌟 Projects
-- 🔗 https://joshz-090.github.io/my-portfolio/
+- 🔗 https://joshz-090.github.io/my-portfolio/  
   A personal website that showcases who I am, my work, and how to contact me.
+
+- 🛠️ *Coming Soon:*  
+  A set of simple C++ console applications:
+  - 🚗 Car system  
+  - 🐍 Snake game  
+  - 🛒 Ordering management system
+
 
 ### 📫 How to Reach Me
 - GitHub: https://github.com/Joshz-090
