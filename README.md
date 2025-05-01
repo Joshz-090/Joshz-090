@@ -1,57 +1,69 @@
-# 👋 **Hey there, I'm Eyasu Zerihun!**  
-### **Front-End Developer | UI/UX Enthusiast**  
+# 👨‍💻 **Eyasu Zerihun** | **Front-End Developer**  
 
-[![Portfolio](https://img.shields.io/badge/✨_Portfolio-8A2BE2?style=for-the-badge)](https://joshz-090.github.io/my-portfolio/) 
-[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Joshz-090)  
+[![GitHub Followers](https://img.shields.io/github/followers/Joshz-090?style=social)](https://github.com/Joshz-090) 
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-8A2BE2)](https://joshz-090.github.io/my-portfolio/)  
 
-**I craft beautiful, responsive websites with clean code and pixel-perfect designs.**  
+**Crafting responsive, user-friendly interfaces with clean code.**    
 
 ---
 
-## 🛠 **Tech Stack**  
+## 🚀 **Skills & Expertise**  
 
-### **Core Front-End Skills**  
-✔ **HTML5** (Semantic Markup)  
-✔ **CSS3** (Flexbox, Grid, Animations)  
-✔ **JavaScript** (DOM Manipulation, ES6+)  
+### **Frontend Development**  
+✔ **HTML5** | **CSS3** | **JavaScript (ES6+)**  
+✔ **Responsive Design** (Mobile-First Approach)  
+✔ **CSS Animations** & **Transitions**  
+
+### **Programming Languages**  
+✔ **Python** (Scripting, Automation)  
+✔ **Java** (OOP Concepts)  
+✔ **C++** (Data Structures & Algorithms)  
 
 ### **Tools & Workflow**  
 ✔ **Git & GitHub** (Version Control)  
-✔ **VS Code** (Extensions: Live Server, Prettier)  
-✔ **Responsive Design** (Mobile-First Approach)  
+✔ **VS Code** (Extensions & Debugging)  
 
 ---
 
-## 🎨 **Featured Projects**  
+## � **Featured Projects**  
 
-### **🌟 [Interactive Portfolio](https://joshz-090.github.io/my-portfolio/)**  
-_A responsive showcase of my work with smooth animations._  
-**Tech Used:** HTML5, CSS3, JavaScript  
+### **🎨 [Personal Portfolio](https://joshz-090.github.io/my-portfolio/)**  
+📌 *A responsive portfolio showcasing my projects and skills.*  
+🛠 **Tech Stack:** HTML5, CSS3, JavaScript  
 
-### **🖥️ Landing Page Templates** *(Coming Soon)*  
-- Modern business landing page  
-- Animated portfolio template  
-- E-commerce product showcase  
-
----
-
-## 📚 **Currently Learning**  
-🔥 **Advanced CSS** (Sass, BEM Methodology)  
-🔥 **JavaScript Frameworks** (React.js)  
-🔥 **UI/UX Principles** (Figma Basics)  
+### **🚀 Upcoming C++ Projects**  
+- **🚗 Car Management System** *(OOP-based console app)*  
+- **🐍 Snake Game** *(Classic arcade-style game)*  
+- **🛒 Order Management System** *(Console-based inventory tracker)*  
 
 ---
 
-## 📫 **Let's Connect!**  
+## 📚 **Currently Learning & Exploring**  
+🔥 **Advanced JavaScript (ES6+)**  
+🔥 **Backend Development (Node.js, Express.js)**  
+🔥 **Database Management (SQL, MongoDB)**  
+
+---
+
+## 📬 **Get in Touch**  
 📧 **Email:** [eyasuzerihun80@gmail.com](mailto:eyasuzerihun80@gmail.com)  
-💼 **GitHub:** [github.com/Joshz-090](https://github.com/Joshz-090)  
+💻 **GitHub:** [github.com/Joshz-090](https://github.com/Joshz-090)  
 
 ---
 
-## **✨ How You Can Support Me**  
-⭐ **Star my projects** if you find them useful!  
-🔗 **Share** with your network  
-💡 **Suggestions?** I'd love feedback!  
+## **💖 Support My Work**  
+⭐ **Star my repositories** if you find them useful!  
+🔗 **Share my projects** with your network.  
+💬 **Feedback?** Always welcome!  
 
-**Thanks for visiting!** 🚀  
-*"The web is my canvas, and code is my brush."*  
+**Thanks for stopping by! 😊**  
+*"First, solve the problem. Then, write the code."* – John Johnson  
+
+---
+
+### **🔹 Why This README Stands Out:**  
+✅ **Professional & Clean** (Easy to read)  
+✅ **GitHub Badges** (Adds credibility)  
+✅ **Structured Sections** (Clear skill breakdown)  
+✅ **Call-to-Action** (Encourages engagement)  
+✅ **Quote for Personality** (Makes it memorable)  
