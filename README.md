@@ -1,4 +1,3 @@
-
 # 👨‍💻 **Eyasu Zerihun** | **Front-End Developer**
 
 [![GitHub Followers](https://img.shields.io/github/followers/Joshz-090?style=social)](https://github.com/Joshz-090)  
