@@ -83,11 +83,3 @@
 > *"First, solve the problem. Then, write the code."* – John Johnson  
 
 **Thanks for stopping by! 😊**
-"""
-
-# Save to a markdown file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as f:
-    f.write(readme_content.strip())
-
-file_path
