@@ -7,22 +7,30 @@
 
 ---
 
-## 🚀 **Skills & Expertise**  
+## 🛠️ Tech Stack
 
-### **Frontend Development**  
-✔ **HTML5** | **CSS3** | **JavaScript (ES6+)**  
-✔ **Responsive Design** (Mobile-First Approach)  
-✔ **CSS Animations** & **Transitions**  
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-### **Programming Languages**  
-✔ **Python** (Scripting, Automation)  
-✔ **Java** (OOP Concepts)  
-✔ **C++** (Data Structures & Algorithms)  
+**Mobile:**  
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 
-### **Tools & Workflow**  
-✔ **Git & GitHub** (Version Control)  
-✔ **VS Code** (Extensions & Debugging)  
+**Backend:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ---
 
 ## � **Featured Projects**  
@@ -61,9 +69,23 @@
 
 ---
 
-### **🔹 Why This README Stands Out:**  
-✅ **Professional & Clean** (Easy to read)  
-✅ **GitHub Badges** (Adds credibility)  
-✅ **Structured Sections** (Clear skill breakdown)  
-✅ **Call-to-Action** (Encourages engagement)  
-✅ **Quote for Personality** (Makes it memorable)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshz-090&show_icons=true&count_private=true&theme=radical)
+
+- **🌟 Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/Joshz-090?style=flat-square)
+- **💻 Total Commits (2024):** ![Commits](https://img.shields.io/github/commit-activity/y/Joshz-090?style=flat-square)
+- **🔀 Total PRs:** ![PRs](https://img.shields.io/github/issues-pr/Joshz-090?style=flat-square)
+- **🐛 Total Issues:** ![Issues](https://img.shields.io/github/issues/Joshz-090?style=flat-square)
+- **🤝 Contributed to:** ![Contributions](https://img.shields.io/github/contributions/Joshz-090?style=flat-square)
+
+---
+
+## 🗣️ Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshz-090&layout=compact&theme=radical&hide=php,ruby)
+
+---
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Joshz-090&theme=radical)
+
+---
