@@ -1,6 +1,4 @@
-# Create the refined README content and save it as a README.md file
 
-readme_content = """
 # 👨‍💻 **Eyasu Zerihun** | **Front-End Developer**
 
 [![GitHub Followers](https://img.shields.io/github/followers/Joshz-090?style=social)](https://github.com/Joshz-090)  
