@@ -1,7 +1,6 @@
 # 👨‍💻 **Eyasu Zerihun** | **Front-End Developer**
 
-[![GitHub Followers](https://img.shields.io/github/followers/Joshz-090?style=social)](https://github.com/Joshz-090)  
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-8A2BE2)](https://joshz-090.github.io/my-portfolio/)
+[![GitHub Followers](https://img.shields.io/github/followers/Joshz-090?style=social)](https://github.com/Joshz-090)[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-8A2BE2)](https://joshz-090.github.io/my-portfolio/)
 
 > **Crafting responsive, user-friendly interfaces with clean code.**
 
