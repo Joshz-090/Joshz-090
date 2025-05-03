@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://joshz-090.github.io/my-portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐-Portfolio-8A2BE2" alt="Portfolio" width="150" height="30">
+  <img src="https://img.shields.io/badge/🌐-Portfolio-8A2BE2" alt="Portfolio" width="100" height="40">
 </a>
 
 > **Crafting responsive, user-friendly interfaces with clean code.**
