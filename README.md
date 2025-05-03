@@ -72,18 +72,22 @@
 - 🐍 **Snake Game** *(Classic arcade-style game)*  
 - 🛒 **Order Management System** *(Console-based inventory tracker)*
 
----
+---<!-- Quote Section -->
+<section id="quote-funfact">
+  <h2>📜 <strong>Quote of the Day</strong></h2>
+  <blockquote>
+    <p><em>"I've learned so much from my mistakes, I’m thinking of making a few more just to keep the education going. 😅📚"</em></p>
+    <p><em>"They say don’t make the same mistake twice… so I make it three or four times, just to be sure. 😉⚠️"</em></p>
+    <footer><strong>— Eyasu Zerihun</strong></footer>
+  </blockquote>
 
-## **📜 Quote**  
- 
-> *"I've learned a lot from my mistakes, so I decided to make more mistakes to learn even more. 😅📚💡"*
-> *⚠️ **"NEVER make the same mistake twice... make it 3 or 4 times to be sure!"** ⚠️*
-> **— Eyasu Zerihun**  
+  <hr>
 
-### **🎨 Fun Fact**  
-⚡ When I'm not coding, I love **photography, gaming, and music**!  
+  <!-- Fun Fact Section -->
+  <h3>🎨 <strong>Fun Fact</strong></h3>
+  <p>When I’m not buried in code, you’ll find me behind a camera, deep in a game, or vibing to music. 🎮📸🎶</p>
+</section>
 
----
 
 ## 💖 Support My Work
 
