@@ -74,10 +74,10 @@
 
 ---<!-- Quote Section -->
 <section id="quote-funfact">
-  <h2>📜 <strong>Quote of the Day</strong></h2>
+  <h2>📜 <strong>Quote </strong></h2>
   <blockquote>
-    <p><em>"I've learned so much from my mistakes, I’m thinking of making a few more just to keep the education going. 😅📚"</em></p>
-    <p><em>"They say don’t make the same mistake twice… so I make it three or four times, just to be sure. 😉⚠️"</em></p>
+    <p><em>"I've learned a lot from my mistakes, so I decided to make more mistakes to learn even more. 😅📚💡"</em></p>
+    <p><em>"They say don’t make the same mistake twice................ so I make it 6 or 5 times, just to be sure. 😉⚠️"</em></p>
     <footer><strong>— Eyasu Zerihun</strong></footer>
   </blockquote>
 
