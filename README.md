@@ -77,7 +77,7 @@
 ## **📜 Quote**  
  
 > *"I've learned a lot from my mistakes, so I decided to make more mistakes to learn even more. 😅📚💡"*
->   > ⚠️ **"NEVER make the same mistake twice... make it 3 or 4 times to be sure!"** ⚠️
+> ⚠️ **"NEVER make the same mistake twice... make it 3 or 4 times to be sure!"** ⚠️
 > **— Eyasu Zerihun**  
 
 ### **🎨 Fun Fact**  
