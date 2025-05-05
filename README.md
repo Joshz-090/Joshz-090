@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h1 style="font-size: 3.5rem; margin-bottom: 10px; color: #58a6ff;">👋 HELLO, I'M EYASU ZERIHUN(Josh-Z090)</h1>
+  <h1 style="font-size: 3.5rem; margin-bottom: 10px; color: #58a6ff;">👋 HELLO, I'M EYASU ZERIHUN(Josh-Z090) </h1>
 </div>
 
 ---
