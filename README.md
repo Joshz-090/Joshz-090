@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="250" alt="Coding Gif" style="margin-right: 200px;">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" height="250" alt="Developer Gif">
-</div>
-
-
-<h1 align="center">👋 Hello, I'm Eyasu Zerihun (Joshz-090)</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%2358a6ff?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -19,6 +11,8 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200" alt="Developer Gif">
 </p>
 
+
+<h1 align="center">👋 Hello, I'm Eyasu Zerihun (Joshz-090)</h1>
 
 ---
 
