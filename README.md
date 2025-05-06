@@ -88,13 +88,6 @@
   <p>When I’m not buried in code, you’ll find me behind a camera, deep in a game, or vibing to music. 🎮📸🎶</p>
 </section>
 
-### 🐍 GitHub Contribution Snake
-
-![GitHub Snake Light](https://github.com/Joshz-090/snk/blob/output/github-contribution-grid-snake.svg)
-
-![GitHub Snake Dark](https://github.com/Joshz-090/snk/blob/output/github-contribution-grid-snake-dark.svg)
-
-
 ## 💖 Support My Work
 
 <table>
@@ -120,11 +113,9 @@
 
 **Thanks for you supporting ! 😊**
 
+### 🐍 GitHub Contribution Snake
 
-### 🏆 GitHub Trophies
+![GitHub Snake Light](https://github.com/Joshz-090/snk/blob/output/github-contribution-grid-snake.svg)
 
-### 🧩 3D Contribution Graph
-
-![](https://raw.githubusercontent.com/Joshz-090/Joshz-090/main/profile-3d-contrib/profile-green-animate.svg)
-
+![GitHub Snake Dark](https://github.com/Joshz-090/snk/blob/output/github-contribution-grid-snake-dark.svg)
 
