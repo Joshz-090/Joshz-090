@@ -4,9 +4,21 @@
 </div>
 
 
-<div align="center">
-  <h1 style="font-size: 1 rem; margin-bottom: 10px; color: #58a6ff;">👋 HELLO, I'M EYASU ZERIHUN(Josh-Z090) </h1>
-</div>
+<h1 align="center">👋 Hello, I'm Eyasu Zerihun (Joshz-090)</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%2358a6ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Dev-%23ff69b4?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" alt="Coding Gif" style="margin-right: 10px;">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200" alt="Developer Gif">
+</p>
+
 
 ---
 
