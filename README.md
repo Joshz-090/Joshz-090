@@ -88,6 +88,12 @@
   <p>When I’m not buried in code, you’ll find me behind a camera, deep in a game, or vibing to music. 🎮📸🎶</p>
 </section>
 
+### 🐍 GitHub Contribution Snake
+
+![GitHub Snake Light](https://github.com/Joshz-090/snk/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Snake Dark](https://github.com/Joshz-090/snk/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ## 💖 Support My Work
 
@@ -113,3 +119,10 @@
 > *"First, solve the problem. Then, write the code."* – John Johnson  
 
 **Thanks for you supporting ! 😊**
+
+
+### 💼 CodersRank Overview
+
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=Joshz-090" width="100%">
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Joshz-090&show-other-skills=true" width="100%">
+
