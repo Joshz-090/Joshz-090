@@ -123,5 +123,8 @@
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Joshz-090&theme=radical&no-frame=true&column=4&rank=AA,AAA,A,B,C)
+### 🧩 3D Contribution Graph
+
+![](https://raw.githubusercontent.com/Joshz-090/Joshz-090/main/profile-3d-contrib/profile-green-animate.svg)
+
 
