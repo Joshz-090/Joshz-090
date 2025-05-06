@@ -121,8 +121,7 @@
 **Thanks for you supporting ! 😊**
 
 
-### 💼 CodersRank Overview
+### 🏆 GitHub Trophies
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=Joshz-090" width="100%">
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Joshz-090&show-other-skills=true" width="100%">
+![Trophies](https://github-profile-trophy.vercel.app/?username=Joshz-090&theme=radical&no-frame=true&column=4&rank=AA,AAA,A,B,C)
 
