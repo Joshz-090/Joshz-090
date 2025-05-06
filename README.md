@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" alt="Coding Gif">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200" alt="Developer Gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" alt="Coding Gif" style="margin-right: 200px;">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200" alt="Developer Gif">
 </div>
+
 
 <div align="center">
   <h1 style="font-size: 3.5rem; margin-bottom: 10px; color: #58a6ff;">👋 HELLO, I'M EYASU ZERIHUN(Josh-Z090) </h1>
