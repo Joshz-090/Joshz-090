@@ -59,7 +59,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Joshz-090&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 49%; height: 250px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshz-090&layout=compact&theme=dark" alt="Top Languages" style="width: 45%; height: 250px;">
   </div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshz-090" alt="GitHub Streak" style="width: 100%; max-width: 600px;></img>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshz-090" alt="GitHub Streak" style="width: 100%; max-width: 600px;">
 </div>
 
 ---
