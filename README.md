@@ -23,6 +23,7 @@
 
 ### **Connect With Me**  
 
+
 [![GitHub Followers](https://img.shields.io/github/followers/Joshz-090?style=for-the-badge&logo=github&label=Follow%20Me&color=181717)](https://github.com/Joshz-090)
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-8A2BE2?style=for-the-badge)](https://joshz-090.github.io/my-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
