@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=900&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&lines=👋+Hi,+I'm+Joshz-090+(Eyasu+Zerihun);Full-Stack+Developer;Software+Engineering+Student" alt="Typing SVG" />
 </p>
-
+ 
 <p align="center">
   <img 
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBoZmFpcjQ0OTl0ajhwMXkyZXB6dXB6ZWd6MWJ4M2VpemI2Z2VyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IoP0PvbbSWGAM/giphy.gif" 
