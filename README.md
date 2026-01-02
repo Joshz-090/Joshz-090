@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-   <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"> <a href="https://joshz-090.github.io/my-portfolio/">Visit my portfolio</a>  <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px">
+   <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"> <a href="https://joshz-090.online ">Visit my portfolio</a>  <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px">
 </p>
 
 ---
