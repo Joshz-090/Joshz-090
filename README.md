@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  📍 Arba Minch, Ethiopia 🇪🇹 &nbsp; | &nbsp; ☕ Let’s build something together!
+  📍 Adama, Ethiopia 🇪🇹 &nbsp; | &nbsp; ☕ Let’s build something together!
 </p>
 
 <p align="center">
